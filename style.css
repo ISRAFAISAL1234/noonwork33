@@ -1,0 +1,156 @@
+.nav-im{
+    width: 70px;
+}
+.head{
+    background-color: #ffff00;
+}
+.BN{
+    font-size: large;
+    font-weight: bold;
+}
+.nn:hover{
+    color: rgb(235, 224, 224);
+}
+*{
+    cursor: pointer;
+    margin: 5px;
+    
+}
+.hop{
+    background-color: aqua;
+}
+.weth{
+    width: 150px;
+    font-weight: bold;
+    color: black;
+}
+.wethtwo{
+    width: 170px;
+    font-weight: bold;
+    color: black;
+}
+.weth:hover{
+    background-color: rgb(146, 142, 142);
+    color: aliceblue;
+}
+.wethtwo:hover{
+    background-color: rgb(146, 142, 142);
+    color: aliceblue;
+}
+.heas{
+    font-size: large;
+    font-weight: bold;
+    text-shadow: #181817;
+}
+.nvov{
+background-color: aquamarine;
+
+}
+.xz{
+background-color: blue;
+}
+.cursr{
+    margin-top: -16px;
+    ;
+}
+.BNN{
+    margin-left: 400PX;
+    margin-top: 5PX;
+    background-color: #181817;
+    color: azure;
+    border: 4PX solid black;
+    border-radius: 15px;
+}
+.BV:hover{
+    color: rgb(35, 37, 37);
+}
+.jj{
+   
+}
+@media 
+  (max-device-width: 218px)
+  and (max-device-height: 281px) { 
+    .BNN{
+        margin-left: 0px;
+        margin-top: 1PX;
+        background-color: #181817;
+        color: azure;
+        border: 2PX solid black;
+        border-radius: 15px;
+    }
+    .BV{
+        color: yellow; 
+        padding-top:0px; 
+        text-shadow: #d5e3eb;
+    }
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.img{
+max-width: 100%;
+}
+
+.gallery{
+    background-color: #d5e3eb;
+    padding: 80px 0px;
+
+}
+.gallery img{
+    padding: ;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 0 15px rgb(0,0,0.3);
+    cursor: pointer;
+    
+}
+/* <!-- new mobil section grid --> */
+.kl{
+   background-color: #d5e3eb;
+}
+
+.bnm{
+    margin-top:-100px;
+}
+.bnmj{
+    margin-top:-50px;
+}
+.aresh{
+    background-color: antiquewhite;
+    margin-top: -40px;
+}
+.nk{
+    height: 70px;
+    width: 100px;
+ 
+
+}
+.sop{
+    background: #e9d7d7;
+}
+.kd{
+    margin-top: -20px;
+    margin-left: -40px;
+}
+.few{
+    margin-top: -200px;
+}
+.container:hover{
+    background-color: rgb(252, 244, 244);
+}
+.foe{
+    width: 300px;
+}
+.foea{
+    width: 300px;
+    background-color: rgb(33, 112, 112);
+}
+.ddq{
+    background-color: bisque;
+    padding: 5px;
+}
+.dfg{
+    background-color: #ddddd7;
+}
